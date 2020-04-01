@@ -6,7 +6,7 @@ Minimized/active/urgent tasks are distinguished by saturation and brightness of 
 
 ![alt text](https://raw.githubusercontent.com/stripedswan/prostota.tint2/master/scrot.png)
 
-The themes used in the preview:
+The icon themes used in the preview:
 
 chicago95 for the task buttons and systray
 
